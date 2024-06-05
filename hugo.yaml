@@ -1,0 +1,35 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: faultdef
+theme: papermod
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - name: Posts
+      url: posts
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
+
+params:
+  env: production
+  author: ["Deni Andrian Prayoga"]
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/deniandriancode"
+    - name: discord
+      url: "https://discord.com/users/871707742312726590"
+
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
