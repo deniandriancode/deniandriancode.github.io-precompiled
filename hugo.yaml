@@ -1,6 +1,6 @@
 baseURL: /
 languageCode: en-us
-title: faultdef
+title: faultint
 theme: papermod
 
 outputs:
@@ -8,7 +8,7 @@ outputs:
     - HTML
     - RSS
     - JSON
-
+    
 menu:
   main:
     - name: Posts
@@ -16,15 +16,46 @@ menu:
       weight: 5
     - name: Search
       url: search/
-      weight: 10
+      weight: 10  
 
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: onedark
+    tabWidth: 4
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+    
 params:
   env: production
   author: ["Deni Andrian Prayoga"]
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
-
+    Title: $HOME
+    Content: Thoughts about programming, computer science, mathematics, and human languages.
+    
+  math: true
+  
   socialIcons:
     - name: github
       url: "https://github.com/deniandriancode"
@@ -32,4 +63,7 @@ params:
       url: "https://discord.com/users/871707742312726590"
 
   ShowReadingTime: true
-  ShowCodeCopyButtons: true
+  ShowCodeCopyButtons: false
+  ShowPostNavLinks: true
+  ShowWordCount: true
+  disableScrollToTop: false
