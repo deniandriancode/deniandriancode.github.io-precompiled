@@ -16,7 +16,10 @@ menu:
       weight: 5
     - name: Search
       url: search/
-      weight: 10  
+      weight: 10
+    - name: Archives
+      url: archives/
+      weight: 15
 
 markup:
   highlight:
@@ -64,6 +67,7 @@ params:
 
   ShowReadingTime: true
   ShowCodeCopyButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowWordCount: true
   disableScrollToTop: false
