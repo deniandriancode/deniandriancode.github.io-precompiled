@@ -49,7 +49,11 @@ markup:
           - - \(
             - \)
         enable: true
-    
+
+services:
+  disqus:
+    shortname: deniandriancode-github-io
+        
 params:
   env: production
   author: ["Deni Andrian Prayoga"]
@@ -58,12 +62,18 @@ params:
     Content: Thoughts about programming, computer science, mathematics, and human languages.
     
   math: true
+  comments: true
   
   socialIcons:
     - name: github
       url: "https://github.com/deniandriancode"
     - name: discord
       url: "https://discord.com/users/871707742312726590"
+
+  editPost:
+    URL: "https://github.com/deniandriancode/deniandriancode.github.io-precompiled/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 
   ShowReadingTime: true
   ShowCodeCopyButtons: false
