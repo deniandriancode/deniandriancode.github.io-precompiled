@@ -1,9 +1,12 @@
 +++
-title = "Keep Writing Code Until it Becomes Meaningless"
+title = "Keep Writing Code Until It Becomes Meaningless"
 date = 2024-06-06T20:23:33+07:00
 draft = false
 description = ''
 tags = ['programming', 'writing']
+[cover]
+image = "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+caption = "Source: [unsplash](https://unsplash.com/photos/black-and-silver-laptop-computer-on-table-95YRwf6CNw8)"
 +++
 
 If you are learning programming or computer science related stuff,

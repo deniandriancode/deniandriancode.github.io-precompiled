@@ -4,6 +4,9 @@ date = 2024-06-05T13:01:22+07:00
 draft = false
 description = ''
 tags = ['web', 'programming', 'devlog', ]
+[cover]
+image = "https://images.unsplash.com/photo-1547394765-185e1e68f34e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+caption = "Source: [unsplash](https://unsplash.com/photos/closeup-photo-of-computer-keyboard-WkfDrhxDMC8)"
 +++
 
 Learning is a tiresome activity, you need to put a lot of effort and time when learning something,
@@ -142,7 +145,7 @@ a note taking app. Anyways, there is it there for you to use.
 
 ### 3. GitHub
 
-This one is the GitHub itself and the GitHub Pages I mentioned above. If you have a README.md file on your
+This one is the GitHub itself and not the GitHub Pages I mentioned above. If you have a README.md file on your
 repository, GitHub will render it automatically when you visit the directory of that README.md file. Of course
 you can just use any file format and store it on GitHub, what makes it different is that you can easily
 change between "versions" of your note just like when you developing an actual software.

@@ -8,6 +8,15 @@ outputs:
     - HTML
     - RSS
     - JSON
+  section:
+    - html
+    - rss
+  taxonomy:
+    - html
+    - rss
+  term:
+    - rss
+    - html
     
 menu:
   main:
@@ -20,6 +29,9 @@ menu:
     - name: Archives
       url: archives/
       weight: 15
+    - name: About
+      url: about/
+      weight: 20
 
 markup:
   highlight:
@@ -56,12 +68,13 @@ services:
         
 params:
   env: production
-  author: ["Deni Andrian Prayoga"]
+  author: "Deni Andrian Prayoga"
+  email: deniandriancode@gmail.com
   homeInfoParams:
     Title: $HOME
     Content: Thoughts about programming, computer science, mathematics, and human languages.
     
-  math: true
+  math: false
   comments: true
   
   socialIcons:
@@ -69,6 +82,10 @@ params:
       url: "https://github.com/deniandriancode"
     - name: discord
       url: "https://discord.com/users/871707742312726590"
+    - name: email
+      url: "mailto:deniandriancode@gmail.com"
+    - name: "rss"
+      url: "/index.xml"
 
   editPost:
     URL: "https://github.com/deniandriancode/deniandriancode.github.io-precompiled/tree/main/content"
@@ -81,3 +98,5 @@ params:
   ShowPostNavLinks: true
   ShowWordCount: true
   disableScrollToTop: false
+  ShowFullTextinRSS: false
+  ShowRssButtonInSectionTermList: true

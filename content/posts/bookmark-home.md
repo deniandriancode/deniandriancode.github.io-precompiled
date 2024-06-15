@@ -8,7 +8,7 @@ weight = 1
 +++
 
 I list my favorite websites here, I want to share this list
-so maybe the others find this list userful. I didn't put them
+so maybe the others find this list useful. I didn't put them
 on specific category since the list is still small, I might
 do that in the future.
 
@@ -38,6 +38,12 @@ do that in the future.
 - [The Principles of Psychology VOL II](https://www.gutenberg.org/cache/epub/57634/pg57634-images.html)
 - [The Interpretation of Dreams](https://www.gutenberg.org/cache/epub/66048/pg66048-images.html)
 - [Sewing Tutorials by Doina Alexei](https://www.doinaalexei.com/sewing-tutorials.html)
+- [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)
+- [Forgetting Curve | Hermann Ebbinghaus](https://psychclassics.yorku.ca/Ebbinghaus/index.htm)
+- [Ziid - Arabic Blog Platform](https://ziid.net/)
+- [Low Level Programming Basic Concepts](https://web.archive.org/web/20091027101401/http://geocities.com/SiliconValley/Park/3230/pas/lowlevel.html)
+- [Buffered I/O](https://cseweb.ucsd.edu//~bsy/cse80/lec4/bufferio.html)
+- [Essential C++ Tutorial from Basic to Advanced](https://www.learncpp.com/)
 
 ## `faultint` Single Page Applications
 
