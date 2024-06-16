@@ -35,7 +35,6 @@
 
   {{- if .Content }}
   <div class="post-content">
-    <img src="/author_profile.png" alt="Photo profile of author" style="margin: 2em auto; border: 1px solid #888">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
@@ -63,3 +62,4 @@
 </article>
 
 {{- end }}{{/* end main */}}
+

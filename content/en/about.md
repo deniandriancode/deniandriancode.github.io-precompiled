@@ -10,8 +10,8 @@ ShowPostNavLinks: false
 ShowWordCount: false
 ---
 
-Well, hello there! My name is Deni Andrian Prayoga. I'm just a
-regular man who loves building stuff solving problems using mathematics
+Well, hello there! My name is Deni Andrian Prayoga, also known as deniandriancode. I'm just a
+regular man who loves building stuff and solving problems using mathematics
 and programming. You'll find my thoughts about mathematics, programming,
 and human languages in this website, whenever I have idea about
 those stuff, I will post it here. You can mail me at [deniandriancode@gmail.com](mailto:deniandriancode@gmail.com).
