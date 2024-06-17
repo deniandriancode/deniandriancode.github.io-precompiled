@@ -25,7 +25,8 @@ languages:
         URL: "https://github.com/deniandriancode/deniandriancode.github.io-precompiled/tree/main/content/en"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
-    languageName: "English"
+    displayFullLangName: true
+    languageName: ":us: English"
     contentDir: "content/en"
     weight: 1
     taxonomies:
@@ -67,7 +68,8 @@ languages:
         - name: "rss"
           url: "/id/index.xml"
 
-    languageName: "Bahasa Indonesia"
+    displayfulllangname: true
+    languageName: ":indonesia: Indonesia"
     contentDir: "content/id"
     weight: 2
     title: faultint
