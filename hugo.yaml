@@ -21,6 +21,9 @@ outputs:
 languages:
   en:
     params:
+      homeInfoParams:
+        Title: $HOME
+        Content: Thoughts about programming, computer science, mathematics, and human languages.
       editPost:
         URL: "https://github.com/deniandriancode/deniandriancode.github.io-precompiled/tree/main/content/en"
         Text: "Suggest Changes" # edit text
@@ -137,9 +140,6 @@ params:
   env: production
   author: ["deniandriancode"]
   email: deniandriancode@gmail.com
-  homeInfoParams:
-    Title: $HOME
-    Content: Thoughts about programming, computer science, mathematics, and human languages.
     
   math: false
   comments: true

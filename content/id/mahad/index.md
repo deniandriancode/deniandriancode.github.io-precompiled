@@ -14,41 +14,120 @@ cover:
   caption: "Sumber: [unsplash](https://unsplash.com/photos/a-stack-of-books-sitting-on-top-of-a-table-edm2-uVj7nU)"
 ---
 
+{{< rawhtml >}}
+<h2 class="basmala">
+بســــــــــــــم الله الرحمــن الرحيـــم
+</h2>
+{{< /rawhtml >}}
+
 ## Pendahuluan
 
-Berbicara tentang apa saja yang ada di catatan belajar
-abu ayyash, ada catatan, rangkuman, penjelasan lebih detail,
-referensi online, latihan soal dengan metode tradisional dan 
-interaktif. Untuk latihan soal dengan metode interaktif akan
-dialihkan ke website luar, tetap buatan author. Website ini
-dibuat oleh Deni Andrian Prayoga. Bagi yang ingin berkontribusi
-bisa kirim lewat email.
+Ahlan wa sahlan. Website ini merupakan tempat bagi para
+peserta didik Ma'had Ansharussunnah untuk mempelajari materi yang diajarkan di
+kelasnya Abu Ayyash. Di sini terdapat berbagai sumber belajar
+online yang bisa diakses secara gratis mulai dari materi
+pelajaran, catatan khusus dari Abu Ayyash terkait pelajaran,
+penjelasan lebih lanjut tentang materi pelajaran bagi peserta
+didik yang ingin belajar lebih lanjut mengenai materi yang dipelajari, dan
+referensi online sebagai bahan belajar tambahan.
 
-## Catatan Belajar
+Selain materi belajar, di sini juga terdapat kumpulan latihan soal
+beserta jawaban dan penjelasannya bagi peserta didik yang ingin
+menguji pemahamannya atas materi yang sudah dipelajari. Bentuk latihan
+soal yang disediakan ada dua, yaitu latihan soal interaktif dan non-
+interaktif. Pembahasan soal hanya tersedia bagi latihan soal non-interaktif.
 
-_Segera_
+Projek ini dibuat oleh Deni Andrian Prayoga Al Amaani dan Abu
+Ayyash Al Amaani. Semua yang tersedia di website ini **gratis** dan
+**boleh untuk disebarluaskan** dengan atau tanpa melampirkan sumber.
+
+## Materi Pelajaran
+
+Berisi kumpulan materi pelajaran yang diambil langsung dari buku
+paket atau referensi lain.
+
+### Kelas 7
+
+_Sedan dalam proses pembuatan..._
+
+### Kelas 8
+
+_Sedan dalam proses pembuatan..._
+
+## Catatan Belajar Abu Ayyash
+
+Materi pelajaran yang disertai dengan penjelasan dari Abu Ayyash.
+
+### Kelas 7
+
+_Sedan dalam proses pembuatan..._
+
+### Kelas 8
+
+_Sedan dalam proses pembuatan..._
 
 ## Rangkuman
 
-_Segera_
+Kumpulan rangkuman materi pelajaran bagi yang ingin mengulang
+catatan.
+
+### Kelas 7
+
+_Sedan dalam proses pembuatan..._
+
+### Kelas 8
+
+_Sedan dalam proses pembuatan..._
 
 ## Penjelasan Lanjutan
 
-_Segera_
+Berisi penjelasan yang lebih mendalam dari materi yang diajarkan,
+penjelasan yang diberikan kemungkinan berada di luar cakupan kurikulum
+ma'had.
+
+### Kelas 7
+
+_Sedan dalam proses pembuatan..._
+
+### Kelas 8
+
+_Sedan dalam proses pembuatan..._
 
 ## Referensi Online
 
-_Segera_
+Referensi online bagi yang ingin belajar lebih lanjut.
+
+_Sedan dalam proses pembuatan..._
 
 ## Bank Soal
 
-_Segera_
+Kumpulan latihan soal non-interaktif disertai dengan kunci jawaban dan
+pembahasan soal.
+
+### Kelas 7
+
+_Sedan dalam proses pembuatan..._
+
+### Kelas 8
+
+_Sedan dalam proses pembuatan..._
 
 ## Latihan Soal Interaktif
 
-_Segera_
+Kumpulan latihan soal interaktif. Anda akan dibawa ke website lain
+untuk mengerjakan latihan soal. Merupakan projek lain dari developer.
+
+### Kelas 7
+
+_Sedan dalam proses pembuatan..._
+
+### Kelas 8
+
+_Sedan dalam proses pembuatan..._
 
 ## Kontribusi
 
-_Segera_
-
+Bagi yang ingin ikut berkontribusi di projek ini, baik berupa
+bahan ajar atau latihan soal bisa email kami di [deniandriancode@gmail.com](mailto:deniandriancode@gmail.com).
+Untuk yang ingin ikut berkontribusi dari sisi pengembangan website, bisa
+hubungi developer di [discord](https://discord.com/users/871707742312726590).
