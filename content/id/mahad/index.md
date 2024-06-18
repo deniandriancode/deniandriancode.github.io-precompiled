@@ -48,11 +48,11 @@ paket atau referensi lain.
 
 ### Kelas 7
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ### Kelas 8
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ## Catatan Belajar Abu Ayyash
 
@@ -60,11 +60,11 @@ Materi pelajaran yang disertai dengan penjelasan dari Abu Ayyash.
 
 ### Kelas 7
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ### Kelas 8
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ## Rangkuman
 
@@ -73,11 +73,11 @@ catatan.
 
 ### Kelas 7
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ### Kelas 8
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ## Penjelasan Lanjutan
 
@@ -87,17 +87,17 @@ ma'had.
 
 ### Kelas 7
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ### Kelas 8
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ## Referensi Online
 
 Referensi online bagi yang ingin belajar lebih lanjut.
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ## Bank Soal
 
@@ -106,11 +106,11 @@ pembahasan soal.
 
 ### Kelas 7
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ### Kelas 8
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ## Latihan Soal Interaktif
 
@@ -119,15 +119,15 @@ untuk mengerjakan latihan soal. Merupakan projek lain dari developer.
 
 ### Kelas 7
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ### Kelas 8
 
-_Sedan dalam proses pembuatan..._
+_Sedang dalam proses pembuatan..._
 
 ## Kontribusi
 
 Bagi yang ingin ikut berkontribusi di projek ini, baik berupa
 bahan ajar atau latihan soal bisa email kami di [deniandriancode@gmail.com](mailto:deniandriancode@gmail.com).
 Untuk yang ingin ikut berkontribusi dari sisi pengembangan website, bisa
-hubungi developer di [discord](https://discord.com/users/871707742312726590).
+DM developer di [discord](https://discord.com/users/871707742312726590).
