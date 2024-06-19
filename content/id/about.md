@@ -13,7 +13,7 @@ ShowWordCount: false
 Halo semuanya! Nama saya Deni Andrian Prayoga Al Amaani, juga dikenal dengan deniandriancode.
 Seorang laki-laki biasa yang senang membangun berbagai hal untuk menyelesaikan berbagai
 macam masalah menggunakan matematika dan pemrograman. Di sini saya
-mencurahkan ide-ide saya seputar mathematics, problems, dan bahasa
+mencurahkan ide-ide saya seputar matematika, pemrograman, dan bahasa
 manusia. Jika ada yang ingin ditanyakan seputar website ini atau
 hanya ingin sekadar menyapa, hubungi saya di email [deniandriancode@gmail.com](mailto:deniandriancode@gmail.com)
 
