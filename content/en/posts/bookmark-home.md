@@ -44,6 +44,7 @@ do that in the future.
 - [Low Level Programming Basic Concepts](https://web.archive.org/web/20091027101401/http://geocities.com/SiliconValley/Park/3230/pas/lowlevel.html)
 - [Buffered I/O](https://cseweb.ucsd.edu//~bsy/cse80/lec4/bufferio.html)
 - [Essential C++ Tutorial from Basic to Advanced](https://www.learncpp.com/)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
 
 ## `faultint` Single Page Applications
 
