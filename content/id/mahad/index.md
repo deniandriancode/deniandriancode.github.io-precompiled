@@ -41,6 +41,9 @@ Projek ini dibuat oleh Deni Andrian Prayoga Al Amaani dan Abu
 Ayyash Al Amaani. Semua yang tersedia di website ini **gratis** dan
 **boleh untuk disebarluaskan** dengan atau tanpa melampirkan sumber.
 
+Bagi yang ingin mengerjakan soal interaktif atau mendapat konten belajar khusus
+dari Abu Ayyash, bisa kunjungi website pribadi Abu Ayyash [di sini](https://abuayyash.vercel.app).
+
 ## Materi Pelajaran
 
 Berisi kumpulan materi pelajaran yang diambil langsung dari buku
@@ -128,6 +131,6 @@ _Sedang dalam proses pembuatan..._
 ## Kontribusi
 
 Bagi yang ingin ikut berkontribusi di projek ini, baik berupa
-bahan ajar atau latihan soal bisa email kami di [deniandriancode@gmail.com](mailto:deniandriancode@gmail.com).
+bahan ajar, latihan soal, dan pembahasan soal bisa email kami di [deniandriancode@gmail.com](mailto:deniandriancode@gmail.com).
 Untuk yang ingin ikut berkontribusi dari sisi pengembangan website, bisa
 DM developer di [discord](https://discord.com/users/871707742312726590).

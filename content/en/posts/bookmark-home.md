@@ -45,6 +45,7 @@ do that in the future.
 - [Buffered I/O](https://cseweb.ucsd.edu//~bsy/cse80/lec4/bufferio.html)
 - [Essential C++ Tutorial from Basic to Advanced](https://www.learncpp.com/)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
+- [USACO Guide](https://usaco.guide/)
 
 ## `faultint` Single Page Applications
 
