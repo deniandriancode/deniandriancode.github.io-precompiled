@@ -1,6 +1,6 @@
 +++
 title = 'Linux Hard Link and Soft Link in a Nutshell'
-date = 2024-06-10T20:47:46+07:00
+date = 2024-06-24T20:47:46+07:00
 draft = false
 description = ''
 tags = ['linux', 'cli']

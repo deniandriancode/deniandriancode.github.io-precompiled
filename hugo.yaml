@@ -29,7 +29,7 @@ languages:
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
       displayFullLangName: true
-    languageName: ":us: English"
+    languageName: ":us:"
     contentDir: "content/en"
     weight: 1
     taxonomies:
@@ -44,6 +44,9 @@ languages:
         - name: Search
           url: search/
           weight: 10
+        - name: Tags
+          url: tags/
+          weight: 13
         - name: Archives
           url: archives/
           weight: 15
@@ -72,7 +75,7 @@ languages:
           url: "/id/index.xml"
 
       displayfulllangname: true
-    languageName: ":indonesia: Indonesia"
+    languageName: ":indonesia:"
     contentDir: "content/id"
     weight: 2
     title: faultint

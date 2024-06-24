@@ -1,6 +1,6 @@
 +++
 title = "Keep Writing Code Until It Becomes Meaningless"
-date = 2024-06-06T20:23:33+07:00
+date = 2024-06-24T20:23:33+07:00
 draft = false
 description = ''
 tags = ['programming', 'writing']
