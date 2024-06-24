@@ -203,15 +203,22 @@ That’s fantastic! Integrating a Japanese journal into your routine is a powerf
      - **Plans** (予定): Mention your plans for the next day.
 
    Example Entry:
+
+   {{< rawhtml >}}
+   <br/>
+   {{< /rawhtml >}}
+
+   2024年6月24日 (月曜日)  
+   天気：晴れ  
+   今日の活動：   
+   \- 午前中に仕事をしました。  
+   \- 午後は友達とカフェに行きました。  
+   気持ち：今日はとても充実していました。友達とたくさん話せて、楽しかったです。  
+   予定：明日は日本語のレッスンがあります。頑張ります！  
    
-   > 2024年6月24日 (月曜日)  
-   > 天気：晴れ  
-   > 今日の活動： 
-   > \- 午前中に仕事をしました。  
-   > \- 午後は友達とカフェに行きました。  
-   > 気持ち：今日はとても充実していました。友達とたくさん話せて、楽しかったです。  
-   > 予定：明日は日本語のレッスンがあります。頑張ります！  
-   
+   {{< rawhtml >}}
+   <br/>
+   {{< /rawhtml >}}
 
 3. **Expand Gradually**:
    - As you get more comfortable, start expanding your entries. Include more details, new vocabulary, and varied sentence structures.
