@@ -109,7 +109,7 @@ pembahasan soal.
 
 ### Kelas 7
 
-_Sedang dalam proses pembuatan..._
+- [Bilangan Bulat - Episode 1](/id/mahad/exercises/bilangan-bulat-eps-1/)
 
 ### Kelas 8
 
