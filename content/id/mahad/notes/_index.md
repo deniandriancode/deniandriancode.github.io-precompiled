@@ -1,4 +1,0 @@
----
-title: Pelajaran
-layout: list
----
