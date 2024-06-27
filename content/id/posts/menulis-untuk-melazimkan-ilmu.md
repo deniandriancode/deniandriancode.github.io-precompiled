@@ -1,6 +1,6 @@
 +++
 title = 'Menulis Untuk Melazimkan Ilmu'
-date = 2024-06-16T21:59:02+07:00
+date = 2024-06-27T20:59:02+07:00
 draft = false
 description = ''
 tags = ['tulis']
