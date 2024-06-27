@@ -56,4 +56,4 @@ quiz_choice
   d="36"
 >}}
 
-Klik [di sini](/id/mahad/answers/aaad9b5e-608c-4c83-a3c1-e7ddd96abf4f/) untuk melihat jawaban.
+Klik [di sini](/id/mahad_answers/aaad9b5e-608c-4c83-a3c1-e7ddd96abf4f/) untuk melihat jawaban.

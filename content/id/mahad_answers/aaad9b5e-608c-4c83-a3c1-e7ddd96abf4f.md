@@ -12,4 +12,4 @@ math: true
 4. C
 5. D
 
-Untuk melihat soal, klik [di sini](/id/mahad/exercises/bilangan-bulat-eps-1/).
+Untuk melihat soal, klik [di sini](/id/mahad_exercises/bilangan-bulat-eps-1/).
