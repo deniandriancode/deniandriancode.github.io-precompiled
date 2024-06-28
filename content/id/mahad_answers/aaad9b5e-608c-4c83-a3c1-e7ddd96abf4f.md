@@ -12,5 +12,10 @@ type: quiz
 3. C
 4. C
 5. D
+6. A
+7. B
+8. B
+9. C
+10. D
 
 Untuk melihat soal, klik [di sini](/id/mahad_exercises/bilangan-bulat-eps-1/).

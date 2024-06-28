@@ -1,4 +1,4 @@
 ---
-title: Kunci Jawaban
+layout: error404
 ---
 

@@ -110,6 +110,7 @@ pembahasan soal.
 ### Kelas 7
 
 - [Bilangan Bulat - Episode 1](/id/mahad_exercises/bilangan-bulat-eps-1/)
+- [Bilangan Bulat - Episode 2](/id/mahad_exercises/bilangan-bulat-eps-2/)
 
 ### Kelas 8
 

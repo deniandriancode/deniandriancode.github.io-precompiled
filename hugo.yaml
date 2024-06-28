@@ -88,18 +88,15 @@ languages:
         - name: Artikel
           url: posts/
           weight: 5
-        - name: Pencarian
-          url: search/
-          weight: 10
         - name: Arsip
           url: archives/
-          weight: 15
+          weight: 10
         - name: Tentang
           url: about/
-          weight: 20
+          weight: 15
         - name: Mahad
           url: mahad/
-          weight: 25
+          weight: 20
 
 enableRobotsTXT: true
 enableEmojie: true

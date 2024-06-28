@@ -1,4 +1,4 @@
 ---
-title: Latihan Soal
+layout: error404
 ---
 
