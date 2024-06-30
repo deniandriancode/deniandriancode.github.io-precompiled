@@ -111,6 +111,7 @@ pembahasan soal.
 
 - [Bilangan Bulat - Episode 1](/id/mahad_exercises/bilangan-bulat-eps-1/)
 - [Bilangan Bulat - Episode 2](/id/mahad_exercises/bilangan-bulat-eps-2/)
+- [Pecahan - Episode 1](/id/mahad_exercises/pecahan-eps-1/)
 
 ### Kelas 8
 

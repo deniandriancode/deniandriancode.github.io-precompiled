@@ -1,30 +1,30 @@
 ---
-title: 'Bilangan Bulat Kelas 7 - Episode 2'
-date: 2024-06-28T20:34:26+07:00
-draft: false
+title: 'Pecahan Kelas 7 - Episode 1'
+date: 2024-07-01T00:01:34+07:00
+draft: true
 math: true
 searchHidden: true
 type: quiz
 ---
 
-{{< num 1. >}}9 x (6 x (-4)) = ...
+{{< num 1. >}}Bentuk paling sederhana dari \(\frac{18}{45}\) adalah...
 
 {{<
 quiz_choice
-  a="-216" 
-  b="216"
-  c="-50"
-  d="50"
+  a="\(\frac{1}{5}\)" 
+  b="\(\frac{2}{5}\)"
+  c="\(\frac{3}{5}\)"
+  d="\(\frac{4}{5}\)"
 >}}
 
-{{< num 2. >}}9 : 3 + 8 x 4 = ...
+{{< num 2. >}}Bentuk persen dari \(\frac{12}{50}\) adalah...
 
 {{<
 quiz_choice
-  a="36" 
-  b="42"
-  c="44"
-  d="35"
+  a="2,4%" 
+  b="6%"
+  c="24%"
+  d="12%"
 >}}
 
 {{< num 3. >}}6 - (9 x (-2)) + 87 = ...
@@ -84,10 +84,10 @@ ada di dalam kelas tersebut adalah...
 
 {{<
 quiz_choice
-  a="474" 
-  b="383"
-  c="473"
-  d="384"
+  a="434" 
+  b="343"
+  c="433"
+  d="344"
 >}}
 
 {{< num 9. >}}Zaid gemar membaca buku. Dalam satu pekan, Zaid bisa membaca 3 buku.
@@ -117,4 +117,4 @@ quiz_choice
 >}}
 
 
-Klik [di sini](/id/mahad_answers/76250123-4c60-4e12-9b7d-1b60c4eeac59/) untuk melihat jawaban.
+Klik [di sini](/id/mahad_answers/7bd6978f-e453-4b37-b920-3a5bb07539fb/) untuk melihat jawaban.
