@@ -1,7 +1,7 @@
 ---
 title: 'Pecahan Kelas 7 - Episode 1'
 date: 2024-07-01T00:01:34+07:00
-draft: true
+draft: false
 math: true
 searchHidden: true
 type: quiz
