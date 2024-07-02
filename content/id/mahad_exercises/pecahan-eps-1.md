@@ -27,93 +27,84 @@ quiz_choice
   d="12%"
 >}}
 
-{{< num 3. >}}6 - (9 x (-2)) + 87 = ...
+{{< num 3. >}}Bentuk pecahan campuran dari 5,82 adalah...
 
 {{<
 quiz_choice
-  a="112" 
-  b="110"
-  c="111"
-  d="121"
+  a="\(5\frac{41}{50}\)" 
+  b="\(5\frac{41}{100}\)"
+  c="\(\frac{41}{50}\)"
+  d="\(\frac{41}{100}\)"
 >}}
 
-{{< num 4. >}}(77 + 33) - (33 - 77) = ...
+{{< num 4. >}}\(\frac{1}{12} + \frac{3}{12}\) = ...
 
 {{<
 quiz_choice
-  a="37" 
-  b="145"
-  c="154"
-  d="73"
+  a="\(\frac{1}{3}\)" 
+  b="\(\frac{1}{4}\)"
+  c="\(\frac{1}{6}\)"
+  d="\(\frac{1}{8}\)"
 >}}
 
-{{< num 5. >}}(56 + 65) - (56 - 65) = ...
+{{< num 5. >}}\(\frac{5}{6} - \frac{1}{5}\) = ...
 
 {{<
 quiz_choice
-  a="135" 
-  b="130"
-  c="125"
-  d="140"
+  a="\(4\)" 
+  b="\(\frac{9}{15}\)"
+  c="\(\frac{19}{30}\)"
+  d="\(\frac{21}{30}\)"
 >}}
 
-{{< num 6. >}}2 + 22 + 222 + 2222 = ...
+{{< num 6. >}}0,812 + 0,182 = ...
 
 {{<
 quiz_choice
-  a="2468" 
-  b="2486"
-  c="2648"
-  d="2846"
+  a="1,094" 
+  b="0,992"
+  c="0,892"
+  d="0,994"
 >}}
 
-{{< num 7. >}}Jumlah seluruh angka dari 1 sampai 100 adalah...
+{{< num 7. >}}1,01101001 + 101,001011101 = ...
 
 {{<
 quiz_choice
-  a="4551" 
-  b="5001"
-  c="4999"
-  d="5199"
+  a="102,01202111101101" 
+  b="102,01202110110001"
+  c="102,01202111101101"
+  d="102,01202111100001"
 >}}
 
-{{< num 8. >}}Di dalam sebuah kelas terdapat 8 orang siswa, setiap siswa
-membawa sebuah kotak, di dalam kotak tersebut terdapat masing-masing 13 pensil,
-12 penghapus, dan 23 pulpen. Jumlah seluruh pensil, penghapus, dan pulpen yang
-ada di dalam kelas tersebut adalah...
+{{< num 8. >}}\(\frac{1}{12} : \frac{3}{12}\) = ...
 
 {{<
 quiz_choice
-  a="434" 
-  b="343"
-  c="433"
-  d="344"
+  a="\(\frac{1}{3}\)" 
+  b="\(\frac{1}{2}\)"
+  c="\(\frac{1}{8}\)"
+  d="\(\frac{1}{48}\)"
 >}}
 
-{{< num 9. >}}Zaid gemar membaca buku. Dalam satu pekan, Zaid bisa membaca 3 buku.
-Jika setiap bulan ada empat pekan, berapa banyak buku yang dibaca oleh Zaid selama
-satu tahun?
+{{< num 9. >}}1,3 x 0,3 = ...
 
 {{<
 quiz_choice
-  a="120" 
-  b="144"
-  c="142"
-  d="124"
+  a="39" 
+  b="3,9"
+  c="0,39"
+  d="0,039"
 >}}
 
-{{< num 10. >}}Setiap pagi, Umar selalu makan 4 butir kurma sebelum berangkat sekolah.
-Umar tidak makan kurma di pagi hari jika dia tidak pergi ke sekolah.
-Dalam satu pekan, Umar pergi ke sekolah selama 6 hari. Jika dalam satu semester total hari Umar
-tidak pergi ke sekolah karena sakit adalah 10 hari, berapakah jumlah kurma yang dimakan
-oleh Umar selama satu semester? Anggap satu bulan adalah empat pekan.
+{{< num 10. >}}\(\frac{3}{5} - \frac{1}{3} x \frac{2}{4}\) = ...
 
 {{<
 quiz_choice
-  a="566" 
-  b="576"
-  c="466"
-  d="476"
+  a="\(\frac{23}{30}\)" 
+  b="\(\frac{13}{30})"
+  c="\(\frac{13}{15})"
+  d="\(\frac{3}{15})"
 >}}
 
 

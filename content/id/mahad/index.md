@@ -1,5 +1,5 @@
 ---
-title: Catatan Abu Ayyash Al Amaani ~ Ansharussunnah
+title: Catatan Abu Ayyash Al Amaani - Ansharussunnah
 date: 2024-06-15T21:36:38+07:00
 draft: false
 layout: "mahad/index"
