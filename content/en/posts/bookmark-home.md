@@ -46,6 +46,7 @@ do that in the future.
 - [Essential C++ Tutorial from Basic to Advanced](https://www.learncpp.com/)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
 - [USACO Guide](https://usaco.guide/)
+- [MathDoubts](https://mathdoubts.com)
 
 ## `faultint` Single Page Applications
 
