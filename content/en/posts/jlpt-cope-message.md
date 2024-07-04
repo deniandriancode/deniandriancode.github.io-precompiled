@@ -1,6 +1,6 @@
 ---
 title: 'JLPT Cope Messages'
-date: 2024-06-24T21:44:24+07:00
+date: 2024-06-14T21:44:24+07:00
 draft: false
 description: 'Messages I got from ChatGPT while talking about my Japanese learning journey.'
 showToc: true

@@ -2,6 +2,7 @@ baseURL: /
 languageCode: en-us
 title: faultint
 theme: papermod
+paginate: 5
 
 outputs:
   home:
@@ -57,9 +58,18 @@ languages:
   id:
     params:
       env: production
-      homeInfoParams:
-        Title: $HOME
-        Content: Ide-ide seputar pemrograman, komputasi, matematika, dan bahasa manusia.
+      profileMode:
+        enabled: true
+        title: "$HOME" # optional default will be site title
+        subtitle: "Ide-ide seputar pemrograman, komputasi, matematika, dan bahasa manusia."
+        imageUrl: "/author_profile.png" # optional
+        # imageTitle: "<title of image as alt>" # optional
+        # imageWidth: 120 # custom size
+        # imageHeight: 120 # custom size
+        buttons:
+      # homeInfoParams:
+      #   Title: $HOME
+      #   Content: Ide-ide seputar pemrograman, komputasi, matematika, dan bahasa manusia.
       editPost:
         URL: "https://github.com/deniandriancode/deniandriancode.github.io-precompiled/tree/main/content/id"
         Text: "Sarankan Edit" # edit text
@@ -88,9 +98,6 @@ languages:
         - name: Artikel
           url: posts/
           weight: 5
-        - name: Arsip
-          url: archives/
-          weight: 10
         - name: Tentang
           url: about/
           weight: 15
@@ -161,6 +168,7 @@ params:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
+  ShowPageNums: true
   ShowReadingTime: true
   ShowCodeCopyButtons: false
   ShowShareButtons: true

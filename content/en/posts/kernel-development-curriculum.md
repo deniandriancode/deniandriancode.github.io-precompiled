@@ -1,6 +1,6 @@
 ---
 title: 'Kernel Development Curriculum'
-date: 2024-06-19T23:10:43+07:00
+date: 2024-06-14T23:10:43+07:00
 draft: false
 description: 'A curriculum about Kernel Development from ChatGPT'
 tags: ['linux', 'c', 'AI generated']
