@@ -47,6 +47,12 @@ do that in the future.
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/index.html)
 - [USACO Guide](https://usaco.guide/)
 - [MathDoubts](https://mathdoubts.com)
+- [OS Dev Wiki](https://wiki.osdev.org/Expanded_Main_Page)
+- [Database Design](https://opentextbc.ca/dbdesign01/)
+- [Free Ebook Foundation - GitHub](https://github.com/EbookFoundation/free-programming-books)
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [Memory Management](https://www.memorymanagement.org/)
+- [Embedded Artistry](https://embeddedartistry.com/)
 
 ## `faultint` Single Page Applications
 
