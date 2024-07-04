@@ -1,5 +1,5 @@
 ---
-title: Jawaban Bilangan Bulat Kelas 7 - Episode 1
+title: Jawaban Bilangan Bulat - Episode 1
 date: 2024-06-27T19:36:38+07:00
 draft: false
 math: true

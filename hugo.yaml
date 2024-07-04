@@ -130,6 +130,8 @@ markup:
           inline:
           - - \(
             - \)
+          - - \$
+            - \$
         enable: true
 
 services:

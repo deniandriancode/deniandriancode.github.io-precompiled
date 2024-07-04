@@ -1,5 +1,5 @@
 ---
-title: 'Bilangan Bulat Kelas 7 - Episode 2'
+title: 'Bilangan Bulat - Episode 2'
 date: 2024-06-28T20:34:26+07:00
 draft: false
 math: true

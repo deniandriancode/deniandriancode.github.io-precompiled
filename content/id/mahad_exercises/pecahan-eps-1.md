@@ -1,5 +1,5 @@
 ---
-title: 'Pecahan Kelas 7 - Episode 1'
+title: 'Pecahan - Episode 1'
 date: 2024-07-01T00:01:34+07:00
 draft: false
 math: true
@@ -97,7 +97,7 @@ quiz_choice
   d="0,039"
 >}}
 
-{{< num 10. >}}\(\frac{3}{5} - \frac{1}{3} x \frac{2}{4}\) = ...
+{{< num 10. >}}\(\frac{3}{5} - \frac{1}{3} \times \frac{2}{4}\) = ...
 
 {{<
 quiz_choice
