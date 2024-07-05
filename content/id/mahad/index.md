@@ -113,6 +113,7 @@ pembahasan soal.
 - [Bilangan Bulat - Episode 2](/id/mahad_exercises/bilangan-bulat-eps-2/)
 - [Pecahan - Episode 1](/id/mahad_exercises/pecahan-eps-1/)
 - [Aljabar - Episode 1](/id/mahad_exercises/aljabar-eps-1/)
+- [Persamaan Linear Satu Variabel - Episode 1](/id/mahad_exercises/plsv-eps-1/)
 
 ### Kelas 8
 
