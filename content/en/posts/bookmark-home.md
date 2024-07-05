@@ -53,6 +53,7 @@ do that in the future.
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [Memory Management](https://www.memorymanagement.org/)
 - [Embedded Artistry](https://embeddedartistry.com/)
+- [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/)
 
 ## `faultint` Single Page Applications
 
