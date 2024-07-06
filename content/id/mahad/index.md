@@ -44,16 +44,22 @@ Ayyash Al Amaani. Semua yang tersedia di website ini **gratis** dan
 Bagi yang ingin mengerjakan soal interaktif atau mendapat konten belajar khusus
 dari Abu Ayyash, bisa kunjungi website pribadi Abu Ayyash [di sini](https://abuayyash.vercel.app).
 
+## Bank Soal
+
+Kumpulan latihan soal non-interaktif disertai dengan kunci jawaban dan
+pembahasan soal.
+
+- [Bilangan Bulat - Episode 1](/id/mahad_exercises/bilangan-bulat-eps-1/)
+- [Bilangan Bulat - Episode 2](/id/mahad_exercises/bilangan-bulat-eps-2/)
+- [Pecahan - Episode 1](/id/mahad_exercises/pecahan-eps-1/)
+- [Aljabar - Episode 1](/id/mahad_exercises/aljabar-eps-1/)
+- [Persamaan Linear Satu Variabel - Episode 1](/id/mahad_exercises/plsv-eps-1/)
+- [Pertidaksamaan Linear Satu Variabel - Episode 1](/id/mahad_exercises/ptlsv-eps-1/)
+
 ## Materi Pelajaran
 
 Berisi kumpulan materi pelajaran yang diambil langsung dari buku
 paket atau referensi lain.
-
-### Kelas 7
-
-_Sedang dalam proses pembuatan..._
-
-### Kelas 8
 
 _Sedang dalam proses pembuatan..._
 
@@ -61,24 +67,12 @@ _Sedang dalam proses pembuatan..._
 
 Materi pelajaran yang disertai dengan penjelasan dari Abu Ayyash.
 
-### Kelas 7
-
-_Sedang dalam proses pembuatan..._
-
-### Kelas 8
-
 _Sedang dalam proses pembuatan..._
 
 ## Rangkuman
 
 Kumpulan rangkuman materi pelajaran bagi yang ingin mengulang
 catatan.
-
-### Kelas 7
-
-_Sedang dalam proses pembuatan..._
-
-### Kelas 8
 
 _Sedang dalam proses pembuatan..._
 
@@ -88,12 +82,6 @@ Berisi penjelasan yang lebih mendalam dari materi yang diajarkan,
 penjelasan yang diberikan kemungkinan berada di luar cakupan kurikulum
 ma'had.
 
-### Kelas 7
-
-_Sedang dalam proses pembuatan..._
-
-### Kelas 8
-
 _Sedang dalam proses pembuatan..._
 
 ## Referensi Online
@@ -102,33 +90,10 @@ Referensi online bagi yang ingin belajar lebih lanjut.
 
 _Sedang dalam proses pembuatan..._
 
-## Bank Soal
-
-Kumpulan latihan soal non-interaktif disertai dengan kunci jawaban dan
-pembahasan soal.
-
-### Kelas 7
-
-- [Bilangan Bulat - Episode 1](/id/mahad_exercises/bilangan-bulat-eps-1/)
-- [Bilangan Bulat - Episode 2](/id/mahad_exercises/bilangan-bulat-eps-2/)
-- [Pecahan - Episode 1](/id/mahad_exercises/pecahan-eps-1/)
-- [Aljabar - Episode 1](/id/mahad_exercises/aljabar-eps-1/)
-- [Persamaan Linear Satu Variabel - Episode 1](/id/mahad_exercises/plsv-eps-1/)
-
-### Kelas 8
-
-_Sedang dalam proses pembuatan..._
-
 ## Latihan Soal Interaktif
 
 Kumpulan latihan soal interaktif. Anda akan dibawa ke website lain
 untuk mengerjakan latihan soal. Merupakan projek lain dari developer.
-
-### Kelas 7
-
-_Sedang dalam proses pembuatan..._
-
-### Kelas 8
 
 _Sedang dalam proses pembuatan..._
 
