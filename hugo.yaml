@@ -22,9 +22,14 @@ outputs:
 languages:
   en:
     params:
-      homeInfoParams:
+      # homeInfoParams:
+      #   Title: $HOME
+      #   Content: Thoughts about programming, computer science, mathematics, and human languages.
+      profileMode:
+        enabled: true
         Title: $HOME
-        Content: Thoughts about programming, computer science, mathematics, and human languages.
+        subtitle: Thoughts about programming, computer science, mathematics, and human languages.
+        imageUrl: "/author_profile.png"
       editPost:
         URL: "https://github.com/deniandriancode/deniandriancode.github.io-precompiled/tree/main/content/en"
         Text: "Suggest Changes" # edit text
@@ -49,6 +54,9 @@ languages:
         - name: Archives
           url: archives/
           weight: 15
+        - name: Bookmark
+          url: bookmark/
+          weight: 17
         - name: About
           url: about/
           weight: 20

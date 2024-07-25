@@ -3,8 +3,7 @@ title = 'Bookmarks Homepage'
 date = 2024-06-09T14:05:34+07:00
 draft = false
 description = ''
-tags = ['miscellaneous']
-weight = 1
+layout = "bookmark"
 +++
 
 I list my favorite websites here, I want to share this list
@@ -58,3 +57,4 @@ do that in the future.
 ## `faultint` Single Page Applications
 
 - [Temperature Converter](/en/int/temperature-converter/)
+
