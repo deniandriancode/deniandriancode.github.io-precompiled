@@ -61,56 +61,56 @@ languages:
           url: about/
           weight: 20
 
-  id:
-    params:
-      env: production
-      profileMode:
-        enabled: true
-        title: "$HOME" # optional default will be site title
-        subtitle: "Ide-ide seputar pemrograman, komputasi, matematika, dan bahasa manusia."
-        imageUrl: "/author_profile.png" # optional
-        # imageTitle: "<title of image as alt>" # optional
-        # imageWidth: 120 # custom size
-        # imageHeight: 120 # custom size
-        buttons:
-      # homeInfoParams:
-      #   Title: $HOME
-      #   Content: Ide-ide seputar pemrograman, komputasi, matematika, dan bahasa manusia.
-      editPost:
-        URL: "https://github.com/deniandriancode/deniandriancode.github.io-precompiled/tree/main/content/id"
-        Text: "Sarankan Edit" # edit text
-        appendFilePath: true # to append file path to Edit link
-      socialIcons:
-        - name: github
-          url: "https://github.com/deniandriancode"
-        - name: discord
-          url: "https://discord.com/users/871707742312726590"
-        - name: email
-          url: "mailto:deniandriancode@gmail.com"
-        - name: "rss"
-          url: "/id/index.xml"
-
-      displayfulllangname: true
-    languageName: "id"
-    # languageName: ":indonesia:"
-    contentDir: "content/id"
-    weight: 2
-    title: faultint
-    taxonomies:
-      category: IDcategories
-      tag: IDtags
-      series: IDseries
-    menu:
-      main:
-        - name: Artikel
-          url: posts/
-          weight: 5
-        - name: Tentang
-          url: about/
-          weight: 15
-        - name: Mahad
-          url: mahad/
-          weight: 20
+  # id:
+  #   params:
+  #     env: production
+  #     profileMode:
+  #       enabled: true
+  #       title: "$HOME" # optional default will be site title
+  #       subtitle: "Ide-ide seputar pemrograman, komputasi, matematika, dan bahasa manusia."
+  #       imageUrl: "/author_profile.png" # optional
+  #       # imageTitle: "<title of image as alt>" # optional
+  #       # imageWidth: 120 # custom size
+  #       # imageHeight: 120 # custom size
+  #       buttons:
+  #     # homeInfoParams:
+  #     #   Title: $HOME
+  #     #   Content: Ide-ide seputar pemrograman, komputasi, matematika, dan bahasa manusia.
+  #     editPost:
+  #       URL: "https://github.com/deniandriancode/deniandriancode.github.io-precompiled/tree/main/content/id"
+  #       Text: "Sarankan Edit" # edit text
+  #       appendFilePath: true # to append file path to Edit link
+  #     socialIcons:
+  #       - name: github
+  #         url: "https://github.com/deniandriancode"
+  #       - name: discord
+  #         url: "https://discord.com/users/871707742312726590"
+  #       - name: email
+  #         url: "mailto:deniandriancode@gmail.com"
+  #       - name: "rss"
+  #         url: "/id/index.xml"
+  #
+  #     displayfulllangname: true
+  #   languageName: "id"
+  #   # languageName: ":indonesia:"
+  #   contentDir: "content/id"
+  #   weight: 2
+  #   title: faultint
+  #   taxonomies:
+  #     category: IDcategories
+  #     tag: IDtags
+  #     series: IDseries
+  #   menu:
+  #     main:
+  #       - name: Artikel
+  #         url: posts/
+  #         weight: 5
+  #       - name: Tentang
+  #         url: about/
+  #         weight: 15
+  #       - name: Mahad
+  #         url: mahad/
+  #         weight: 20
 
 enableRobotsTXT: true
 enableEmojie: true
