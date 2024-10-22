@@ -93,4 +93,4 @@ The code is not perfect and needs a lot of improvement, for example
 it can only monitor up to 64 files. I will leave it to you to improve
 the code.
 
-Stay safe.
+Stay safe!
