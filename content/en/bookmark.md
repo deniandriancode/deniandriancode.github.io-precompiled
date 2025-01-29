@@ -56,5 +56,8 @@ do that in the future.
 
 ## `faultint` Single Page Applications
 
-- [Temperature Converter](/en/int/temperature-converter/)
+Single page applications that I built casually.
+
+_this field is empty for the time being_
+<!-- - [Temperature Converter](/en/int/temperature-converter/) -->
 
