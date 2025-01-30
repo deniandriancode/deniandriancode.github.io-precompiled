@@ -1,5 +1,5 @@
 ---
-title: 'OverTheWire Bandit 00'
+title: 'OverTheWire Bandit 0'
 date: 2025-01-29T17:29:28+07:00
 draft: false
 description: ''
