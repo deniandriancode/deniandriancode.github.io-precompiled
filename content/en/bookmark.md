@@ -53,6 +53,7 @@ do that in the future.
 - [Memory Management](https://www.memorymanagement.org/)
 - [Embedded Artistry](https://embeddedartistry.com/)
 - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/)
+- [Weblio - Basically a collection of Japanese wikipedias](https://weblio.jp)
 
 ## `faultint` Single Page Applications
 
