@@ -6,7 +6,7 @@ description: ''
 tags: ['japanese']
 ---
 
-Learning a language is a long process, especially if there is no
+Learning a language is a long and boring process, especially if there is no
 visible reward. A record of what I have learned is something visually
 rewarding for me, so here are 10 japanese vocabularies that I learned.
 
