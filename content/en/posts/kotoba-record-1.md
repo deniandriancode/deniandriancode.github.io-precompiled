@@ -1,5 +1,5 @@
 ---
-title: 'Kotoba Ten Episode 1'
+title: 'Kotoba Record - Episode 1'
 date: 2025-01-30T19:05:43+07:00
 draft: false
 description: ''
