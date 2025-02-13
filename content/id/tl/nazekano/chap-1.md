@@ -28,4 +28,4 @@ Jam istirahat pertama.
 
 \-
 
-Link Sumber: https://kakuyomu.jp/works/1177354054884043614/episodes/1177354054884043615
+Link Raw: https://kakuyomu.jp/works/1177354054884043614/episodes/1177354054884043615
